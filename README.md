@@ -57,6 +57,7 @@ You will need **Python 3.8+** installed.
     # In fetch.py, update this line with your actual key if the placeholder fails
     CRYPTOPANIC_API_KEY = "  " 
     ```
+3.  Ignore Generated Files: Note that the files news.json (the output) and cache.json (the temporary cache) will be generated automatically when you run the script. It is highly recommended to list these files in your .gitignore to avoid tracking temporary data.
 
 ### **2. Execution**
 
