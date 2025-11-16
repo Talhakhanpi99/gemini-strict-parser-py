@@ -1,0 +1,15 @@
+# .github/FUNDING.yml
+
+# 1. Primary Product Link (Crucial for Sales)
+# We will use the custom "link" key for your Itch.io/Gumroad store.
+# This link directly supports the development of the full application.
+custom: https://[Your Store Link (e.g., Itch.io/Gumroad)]
+
+# 2. Tipping Services (For appreciating the free utility)
+# GitHub recognizes specific platforms (use the service username, not the full URL)
+buy_me_a_coffee: YourUsername  # e.g., if your link is buymeacoffee.com/developer-fund
+ko_fi: YourKoFiUsername       # Optional: Add Ko-fi if you use it
+
+# 3. GitHub Sponsors (Optional, but recommended)
+# You can set up a formal GitHub Sponsors account here
+github: [YourGitHubUsername]
