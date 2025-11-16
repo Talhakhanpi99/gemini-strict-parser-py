@@ -64,6 +64,7 @@ Run the script from your terminal:
 
 ```bash
 python fetch.py
+```
 
 3. Output
 The script will log its progress and, upon completion, will generate a file named news.json containing an array of the top 10 articles, fully scraped and scored, ready for the next step of AI rewriting and summarization.
